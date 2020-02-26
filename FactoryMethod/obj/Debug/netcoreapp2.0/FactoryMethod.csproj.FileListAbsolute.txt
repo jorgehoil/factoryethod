@@ -1,0 +1,11 @@
+C:\Users\carlos.hoil\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.deps.json
+C:\Users\carlos.hoil\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.runtimeconfig.json
+C:\Users\carlos.hoil\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.runtimeconfig.dev.json
+C:\Users\carlos.hoil\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.dll
+C:\Users\carlos.hoil\source\repos\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp2.0\FactoryMethod.pdb
+C:\Users\carlos.hoil\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.csprojResolveAssemblyReference.cache
+C:\Users\carlos.hoil\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\carlos.hoil\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\carlos.hoil\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.AssemblyInfo.cs
+C:\Users\carlos.hoil\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.dll
+C:\Users\carlos.hoil\source\repos\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp2.0\FactoryMethod.pdb
